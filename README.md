@@ -1,2 +1,2 @@
-# Proecto-Reckitt
+# Proyecto-Reckitt
 Ciencia de Datos
