@@ -3,7 +3,9 @@ Ciencia de Datos.
 
 La Empresa Reckitt México, es una empresa líder en el mercado en productos de higiene del hogar, salud y nutrición, con marcas como Vanish, Lysol, Tempra, Sico, Durex y Chocomilk, entre
 muchas otras.
+
 ![image](https://github.com/user-attachments/assets/ac30f613-d90f-4165-8438-50861981b1a4)
+
 
 ## Descripción del Proyecto
 Este proyecto se centra en analizar el rendimiento de ventas de la categoría Cloros y Blanqueadores de Ropa, una de las más importantes para Reckitt con la marca Vanish. Nuestro objetivo es identificar dónde estamos perdiendo presencia en los segmentos clave (Blanqueadores en Polvo, Líquido, Barra, etc.), determinar a nuestros principales competidores y proponer acciones estratégicas para mejorar. Además, evaluamos la estrategia para Lysol Sanitizer en el segmento de Sanitizantes de Ropa para determinar su efectividad en ganar participación de mercado.
