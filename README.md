@@ -95,11 +95,11 @@ Escenarios predictivos y análisis de tendencias.
 Predicción de ventas futuras para Vanish y Lysol.
 Métodos utilizados: Regresión y/o análisis de series de tiempo.
 
-## Herramientas Utilizadas
-Python: Pandas, Matplotlib, Seaborn, Scikit-learn.
-SQL: SQL Server Management Studio (SSMS).
-Power BI: Creación de dashboards interactivos.
-GitHub: Control de versiones y documentación del proyecto.
+## Herramientas Utilizadas.
+- Python: Pandas, Matplotlib, Seaborn, Scikit-learn.
+- SQL: SQL Server Management Studio (SSMS).
+- Power BI: Creación de dashboards interactivos.
+- GitHub: Control de versiones y documentación del proyecto.
 
 ## Resultados Esperados.
 - Insights clave sobre los segmentos de mercado y la posición de la marca Vanish.
